@@ -15,5 +15,19 @@
             "sizes": "32x32",
             "src": "favicon.ico"
         }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot.png",
+            "sizes": "1584x1005",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "mobile-screenshot.png",
+            "sizes": "756x1276",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
     ]
 }
